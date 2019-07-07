@@ -1,0 +1,14 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+.idea
+build
+
+migrations/
+./static/
+*.log
+#TuClown/settings.py
+YueJi_env/
